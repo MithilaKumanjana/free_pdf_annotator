@@ -27,39 +27,33 @@ Run the Python Script – Execute the source code directly without creating an E
 Download and Run the EXE – A ready-to-use executable (note: it may take a few moments to open).
 Download the Full Package – A folder containing the application with all required dependencies.
 Creating Your Own EXE
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
 If you want to generate your own standalone application from the Python script, follow these steps:
 
 Set up the necessary environment.
 
-Convert the Python script into an EXE file.
-For detailed instructions, refer to the included guide on building your own application.
-*Using auto-py-to-exe
-Install auto-py-to-exe:
+🔹 Converting Your Python Script to an EXE Using auto-py-to-exe
+1️⃣ Install auto-py-to-exe
+Open the command prompt and run:
 
-In the command prompt, run:
 
-bash
 pip install auto-py-to-exe
-Launch auto-py-to-exe:
-
+2️⃣ Launch auto-py-to-exe
 Start the GUI by running:
 
-bash
-auto-py-to-exe
-Configure Your Executable:
 
+auto-py-to-exe
+3️⃣ Configure Your Executable
 In the GUI, set the following options:
 
-Script Location: Browse and select your Python script.
+Script Location – Browse and select your Python script.
+Onefile Option – Choose between a single executable or a folder with dependencies.
+Console Window – Enable if your script requires user input; disable for a seamless UI.
+4️⃣ Convert to EXE
+Click "Convert .py to .exe" to start the conversion process.
 
-Onefile: Choose whether to create a single executable or a folder with dependencies.
+5️⃣ Locate Your Executable
+The output will be saved in the specified location, usually inside a dist folder.
 
-Console Window: Decide if you want a console window (useful for scripts that require user input).
-
-Convert to Executable:
-
-Click on the "Convert .py to .exe" button to start the conversion process.
-
-Find Your Executable:
-
-The output will be saved in the specified location, typically in a dist folder.
+✅ Now, your Python script is a standalone executable! 🚀
