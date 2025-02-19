@@ -14,6 +14,7 @@ Project Overview
 💾 Save Function
 ✅ Super Lightweight – Runs smoothly without slowing down your system!
 💡 How Can You Use It?
+ you can choose 3 way :
 1. Run the Python Script – No installation needed, just execute the code!- https://github.com/MithilaKumanjana/free_pdf_annotator/blob/main/pdf_annotator_final_op_1.6(done).py
 2.Download & Run the EXE – Get started instantly with a pre-built app! - https://drive.google.com/drive/folders/19TLZNSGao-o53CzHXRpJQMynQcD01vNk?usp=sharing
 3. Grab the Full Package – Includes all dependencies for a hassle-free experience! - https://drive.google.com/drive/folders/1dT8gzWWr2RWBGSy7T38Ss0QlAfu9_uA9?usp=sharing
